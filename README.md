@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Jaden.
-- 👀 I’m interested in Web Programmings.
+- 👋 Hi, I’m Jayden.
+- 👀 I’m interested in Web Programmings and Computer Science.
 - 🌱 I’m currently learning Java, Javascript and Python.
-- 💞️ I’m looking to collaborate on someone who in to 
-- 📫 How to reach me ...
-
+- 💞️ I’m looking to collaborate with those who can develop some projects with me.
